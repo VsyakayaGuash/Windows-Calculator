@@ -1,0 +1,13 @@
+﻿cl : командная строка warning D9035: использование параметра "clr:pure" нежелательно, он будет удален в следующих выпусках
+  stdafx.cpp
+cl : командная строка warning D9035: использование параметра "clr:pure" нежелательно, он будет удален в следующих выпусках
+  AssemblyInfo.cpp
+d:\подлесных рл2-23\калькулятор\калькулятор\assemblyinfo.cpp(40): warning C4947: System::Security::Permissions::SecurityAction::RequestMinimum: помечен как устаревший
+  d:\подлесных рл2-23\калькулятор\калькулятор\assemblyinfo.cpp(40): note: Сообщение: "Assembly level declarative security is obsolete and is no longer enforced by the CLR by default. See http://go.microsoft.com/fwlink/?LinkID=155570 for more information."
+  калькулятор.cpp
+  Создание кода...
+cl : командная строка warning D9035: использование параметра "clr:pure" нежелательно, он будет удален в следующих выпусках
+  .NETFramework,Version=v4.5.AssemblyAttributes.cpp
+  AssemblyInfo.obj : /DEBUG:FASTLINK не поддерживается, если присутствует управляемый код; выполняется перезапуск компоновки с /DEBUG:FULL
+  AssemblyInfo.obj : юсэрЁєцхэ ьюфєы№ MSIL; фы  MSIL яюёыхфютрЄхы№эр  ъюьяюэютър юЄъы■ўхэр; т√яюыэ хЄё  яюыэр  ъюьяюэютър
+  калькулятор.vcxproj -> D:\подлесных рл2-23\калькулятор\Debug\калькулятор.exe
